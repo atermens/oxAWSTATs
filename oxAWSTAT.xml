@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<OptionFile>
+    <option key="BBDD" value="F:\usuaris\a.termens\ICGC\UFT\ortoXpres\12_BBDD\oxAWSTATv1.db" help=" Enter BBDD name:  " />
+	<option key="LOGfilename" value="E:\usuaris\a.termens\SANDBOX_DESENV\oxAWSTATdb\oxAWSTATinfo.log" help=" Enter LOG name:  " />
+	<option key="ClientCSVfile" value="E:\usuaris\a.termens\SANDBOX_DESENV\oxAWSTATdb\oxAWSTATinfo_client.csv" help=" Enter output Client (.csv) name:  " />
+	<option key="ServerCSVfile" value="E:\usuaris\a.termens\SANDBOX_DESENV\oxAWSTATdb\oxAWSTATinfo_server.csv" help=" Enter output Server (.csv) name:  " />
+	<option key="CsUriStemfile" value="E:\usuaris\a.termens\SANDBOX_DESENV\oxAWSTATdb\cs-uri-stem.dat" help=" Enter output cs-uri-stem name:  " />
+	<option key="RootDir" value="\\icgc.local\dades\geoproces\Fotogrametria_i_Teledeteccio\projectes\ortoXpres\8_WorkingArea\81_AWSTATlog" help=" Root directory: " />
+    <option key="Date" value="none" help=" YYMM (i.e. 1702): " />
+    <option key="Year" value="" help=" YYYY (i.e. 2017): " />
+</OptionFile>
