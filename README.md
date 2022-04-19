@@ -1,2 +1,4 @@
 # oxAWSTATs
-analisis dels arxius log AWSTATS del projecte ortoXpres
+Analisis dels arxius log AWSTATS del projecte ortoXpres
+
+# License: cc-by-4.0
